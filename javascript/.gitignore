@@ -92,3 +92,4 @@ Thumbs.db
 
 # mdb files
 **.mdb
+**.parcel-cache
