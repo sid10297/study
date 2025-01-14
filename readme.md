@@ -9,11 +9,3 @@ This repository is created to explore, practice, and experiment with different c
 - Document learning progress
 
 Feel free to explore the content and provide feedback. 🚀
-
-## Initial Commit
-
-This repository is dedicated to studying and practicing different things. Let's learn and grow! 💡
-
----
-
-Happy coding! 😊
